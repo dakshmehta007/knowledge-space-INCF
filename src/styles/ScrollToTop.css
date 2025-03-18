@@ -21,3 +21,12 @@
 .scroll-to-top:hover {
   opacity: 1;
 }
+
+.dark-mode .scroll-to-top {
+  background-color: #333;
+  color: #ffffff;
+}
+
+.dark-mode .scroll-to-top:hover {
+  background-color: #444;
+}
